@@ -1,5 +1,8 @@
 .venv
 .DS_Store
-./RawData/
-./Models/
-./DataSet/
+RawData/
+Models/
+DataSet/
+CleanData/
+
+
