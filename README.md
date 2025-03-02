@@ -20,12 +20,12 @@ Model Training and Deployment Scripts for Predictive Maintenance.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/wisermachines-dev/Model-Training.git
+git clone https://github.com/danishzulfiqar/Predictive-Maintenance-Model-Training.git
 ```
 
 2. Change directory
 ```bash
-cd Model-Training
+cd Predictive-Maintenance-Model-Training
 ```
 
 3. Run Scripts number wise
